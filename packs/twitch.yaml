@@ -60,8 +60,6 @@ emojis:
     src: https://static-cdn.jtvnw.net/emoticons/v1/73/1.0
   - name: deexcite
     src: https://static-cdn.jtvnw.net/emoticons/v1/46249/1.0
-  - name: deilluminati
-    src: https://static-cdn.jtvnw.net/emoticons/v1/46248/1.0
   - name: dendiface
     src: https://static-cdn.jtvnw.net/emoticons/v1/58135/1.0
   - name: dogface
@@ -266,6 +264,8 @@ emojis:
     src: https://static-cdn.jtvnw.net/emoticons/v1/56880/1.0
   - name: tf2john
     src: https://static-cdn.jtvnw.net/emoticons/v1/1899/1.0
+  - name: theilluminati
+    src: https://static-cdn.jtvnw.net/emoticons/v1/46248/1.0
   - name: theking
     src: https://static-cdn.jtvnw.net/emoticons/v1/50901/1.0
   - name: theringer
