@@ -124,6 +124,8 @@ emojis:
     src: https://static-cdn.jtvnw.net/emoticons/v1/40/1.0
   - name: kippa
     src: https://static-cdn.jtvnw.net/emoticons/v1/1901/1.0
+  - name: koncha
+    src: https://static-cdn.jtvnw.net/emoticons/v1/160400/1.0
   - name: kreygasm
     src: https://static-cdn.jtvnw.net/emoticons/v1/41/1.0
   - name: kzskull
@@ -202,6 +204,8 @@ emojis:
     src: https://static-cdn.jtvnw.net/emoticons/v1/28328/1.0
   - name: punchtrees
     src: https://static-cdn.jtvnw.net/emoticons/v1/47/1.0
+  - name: punoko
+    src: https://static-cdn.jtvnw.net/emoticons/v1/160401/1.0
   - name: puppeyface
     src: https://static-cdn.jtvnw.net/emoticons/v1/58136/1.0
   - name: raccattack
@@ -262,6 +266,8 @@ emojis:
     src: https://static-cdn.jtvnw.net/emoticons/v1/56882/1.0
   - name: tbsriracha
     src: https://static-cdn.jtvnw.net/emoticons/v1/56880/1.0
+  - name: tehepelo
+    src: https://static-cdn.jtvnw.net/emoticons/v1/160404/1.0
   - name: tf2john
     src: https://static-cdn.jtvnw.net/emoticons/v1/1899/1.0
   - name: theilluminati
