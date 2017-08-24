@@ -271,6 +271,8 @@ emojis:
   - name: tf2john
     src: https://static-cdn.jtvnw.net/emoticons/v1/1899/1.0
   - name: theilluminati
+    aliases:
+      - deilluminati
     src: https://static-cdn.jtvnw.net/emoticons/v1/46248/1.0
   - name: theking
     src: https://static-cdn.jtvnw.net/emoticons/v1/50901/1.0
